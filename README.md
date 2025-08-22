@@ -1,12 +1,22 @@
-# CV Angel Ubaldo de Luna Rechy
+# 🌐 CV Online – Angel Ubaldo de Luna Rechy
 
-Este repositorio contiene mi CV en formato HTML bilingüe (Español / Inglés), listo para publicarse con **GitHub Pages**.
+Este repositorio contiene mi **Currículum Vitae en versión web**, desarrollado en **HTML, CSS y JavaScript puro**, con un diseño limpio, responsivo y bilingüe (Español / Inglés).  
 
-## Publicación en GitHub Pages
-1. Subir los archivos a un repositorio público.
-2. Ir a Settings → Pages.
-3. Seleccionar branch `main` y folder `/ (root)`.
-4. La página quedará disponible en:
-   ```
-   https://<tu-usuario>.github.io/cv-angel/
-   ```
+👉 Puedes visualizarlo en línea gracias a **GitHub Pages** aquí:  
+**[Ver mi CV en línea](https://<TU-USUARIO>.github.io/cv-angel/)**
+
+---
+
+## 📋 Características
+- 🔄 **Bilingüe (ES/EN)**: Conmutador de idioma en tiempo real.  
+- 📱 **Responsive**: Adaptado para móviles, tablets y escritorio.  
+- 🖨️ **Imprimible**: Botón de “Imprimir / Guardar PDF” listo para generar tu CV en PDF desde el navegador.  
+- 🎨 **Diseño moderno**: Minimalista, con modo claro/oscuro automático según la preferencia del navegador.  
+- ⚡ **Sin dependencias externas**: Código 100% HTML + CSS + JS, rápido y ligero.  
+
+---
+
+## 🚀 Cómo usar este repositorio
+1. Clona o descarga el proyecto:
+   ```bash
+   git clone https://github.com/AngelInfinityMore/AngelInfinityMore.git
